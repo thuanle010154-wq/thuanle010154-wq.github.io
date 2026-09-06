@@ -4,12 +4,14 @@ Architecture: iphoneos-arm
 Maintainer: theVinh
 Depends: com.anemonetheming.anemone (>= 2.0), firmware (>= 7.0), firmware (<< 11.0)
 Filename: ./debs/com.thevinh.moden6plus_1.0.0_iphoneos-arm.deb
-Size: 13185456
-MD5sum: 30ade98db5a9cefba4a7b648211528ad
-SHA1: 7df4b494b7e57225387568c1ee8e2cf87c40fc61
-SHA256: e5396e7c8cacf8dd2e581949875cd878a97e499e8b8c61b604e81199000c3a0e
+Size: 13185482
+MD5sum: f7849b84aaa46f2901e3cd90592ae3a6
+SHA1: 69ae540f1dcb93c01c66124733511cc7f7d7ff29
+SHA256: cd3009623f0a18cda4aa98ae18de192d884803c7f7026f3f01c952442518c0a5
 Section: Themes
 Description: The ios 6 icon corect colect icon from zagnut531 (ios icon data and community) and me!
 Author: The Vinh
+Depiction: https://github.io
+Icon: https://github.io
 Name: Moden 6 plus
 
